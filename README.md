@@ -8,7 +8,7 @@ __[Jesus Torres-Vázquez](https://med.nyu.edu/research/torres-vazquez-lab/member
 - __Vascular development modeled in Zebrafish__ - understanding how healthy blood vessel being developped by studying from Zebrafish
 
 
-![photo](https://github.com/DrJiaHe/DrJiaHe.github.io/blob/main/Vessels.jpg)
+![photo](https://github.com/DrJiaHe/DrJiaHe.github.io/blob/main/Vessels.jpg?raw=true)
 
 ---
 ### Personal Highlights
