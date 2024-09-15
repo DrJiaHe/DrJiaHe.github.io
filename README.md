@@ -17,6 +17,3 @@ Jia He (left) married Bo Shen (right) in New York, September 2024
 ---
 
 
-::: warning
-*here be dragons*
-:::
