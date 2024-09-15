@@ -1,14 +1,15 @@
-## Postdoctoral Research Fellow
+### Postdoctoral Research Fellow
 
 __[Jesus Torres-Vázquez](https://med.nyu.edu/research/torres-vazquez-lab/members), New York University, Grossman School of Medicine__
 
 ---
 ### Research Interests
 
-- __Vascular development modeled in Zebrafish__ - understanding how healthy blood vessel being developped by studying from Zebrafish
+- __Vascular development modeled in Zebrafish__ - understanding how healthy blood vessel being developped by learning from fish
 
-#### Art in science photo from zebrafish vessels
-![photo](https://github.com/DrJiaHe/DrJiaHe.github.io/blob/main/WechatIMG51.jpg?raw=false)
+#### Scientific art: Photo from zebrafish vessels
+
+![photo](https://github.com/DrJiaHe/DrJiaHe.github.io/blob/main/WechatIMG51.jpg?raw=true)
 
 ---
 ### Personal Highlights
