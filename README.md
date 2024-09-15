@@ -6,7 +6,7 @@ __[Jesus Torres-Vázquez](https://med.nyu.edu/research/torres-vazquez-lab/member
 ### Research Interests
 
 - __Vascular development modeled in Zebrafish__ - understanding how healthy blood vessel being developped by studying from Zebrafish
-![video](https://github.com/DrJiaHe/DrJiaHe.github.io/blob/bd6c16a4b3effe48288a499b869cdaefbdfa64e9/f09304904c1c49ce29398e3fbd16df.MP4?raw=true)
+![video](https://github.com/DrJiaHe/DrJiaHe.github.io/blob/main/f09304904c1c49ce29398e3fbd16df.MP4?raw=true)
 
 ---
 ### Personal Highlights
