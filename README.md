@@ -12,7 +12,7 @@ __[Jesus Torres-Vázquez](https://med.nyu.edu/research/torres-vazquez-lab/member
 
 ---
 ### Personal Highlights
-![photo](https://github.com/bsbbs/bsbbs.github.io/blob/main/20240909-DSCF8576.JPG?raw=false)
+![photo](https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true)
 Jia He (left) married Bo Shen (right) in New York, September 2024
 
 ---
